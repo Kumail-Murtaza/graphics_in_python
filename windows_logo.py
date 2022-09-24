@@ -1,6 +1,6 @@
 import turtle
 t = turtle.Turtle()
-t.speed(3)
+t.speed(2)
 turtle.Screen().bgcolor("black")
 t.penup()
 t.goto(-50,60)
