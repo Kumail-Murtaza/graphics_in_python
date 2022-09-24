@@ -20,7 +20,7 @@ def draw_circle():
     t.end_fill()
     t.penup()
 
- # making 2nd circle
+# making 2nd circle
 def draw_circle2():
     t.pensize(2)
     t.setposition(0,-230)
