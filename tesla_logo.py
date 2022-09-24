@@ -59,7 +59,7 @@ t.left(130)
 t.forward(65)
 t.end_fill()
 
-#T letter
+# T letter
 t.pencolor("#E82127")
 t.penup()
 t.goto(-200,-180)
@@ -72,7 +72,7 @@ t.back(30)
 t.right(90)
 t.forward(70)
 
-#E letter
+# E letter
 t.penup()
 t.goto(-115,-180)
 t.pendown()
@@ -87,7 +87,7 @@ t.goto(-115,-250)
 t.pendown()
 t.forward(60)
 
-#S letter
+# S letter
 t.penup()
 t.goto(-20,-180)
 t.pendown()
@@ -102,7 +102,7 @@ t.forward(34)
 t.right(90)
 t.forward(60)
 
-#L letter
+# L letter
 t.penup()
 t.goto(70,-180)
 t.pendown()
@@ -111,7 +111,7 @@ t.forward(70)
 t.left(90)
 t.forward(60)
 
-#A letter
+# A letter
 t.penup()
 t.goto(155,-180)
 t.pendown()
